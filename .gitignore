@@ -1,0 +1,41 @@
+# ── 절대 올리면 안 되는 것 (기밀 · 열쇠) ──────────────────────────
+# 원본/비식별 CAD 파일 (강사가 따로 배포)
+*.stp
+*.step
+*.STP
+*.STEP
+*.zip
+# 비식별 대응표 = 원래 부품 이름이 들어 있음
+*_mapping.csv
+# SSH 비밀키 · 서버 확인 정보 · 접속 정보
+*.pem
+known_hosts
+.env
+.env.*
+!.env.example
+
+# ── 실행하면 생기는 결과물 ─────────────────────────────────────────
+outputs/
+code/output/
+output/
+code/data/deid/*
+code/data/out/*
+code/data/raw/*
+data/request.json
+data/efem_inventory.json
+templates/*.CATPart
+*.CATPart
+*.CATProduct
+*.CATDrawing
+*.pdf
+*.jpg
+*.png
+!.gitkeep
+
+# ── 파이썬 · 편집기 ───────────────────────────────────────────────
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
