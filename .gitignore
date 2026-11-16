@@ -31,6 +31,8 @@ templates/*.CATPart
 *.jpg
 *.png
 !.gitkeep
+# README 결과 화면 이미지만 예외로 올림
+!docs/images/*.png
 
 # ── 파이썬 · 편집기 ───────────────────────────────────────────────
 __pycache__/

@@ -4,6 +4,51 @@
 
 ---
 
+## 🎯 최종 결과물 미리보기 — 이 캠프를 마치면 무엇이 만들어지나요?
+
+```text
+장비 STEP ──▶ 클라우드 분석 ──▶ 설계 변수 JSON ──▶ Python이 CATIA 조작 ──▶ 3D 조립품 + 2D 도면
+(LPM_OPENER)   (외곽 치수·BOM)   (design_params)     (프레임·FFU·FOUP)       (CATProduct · CATDrawing · PDF)
+```
+
+| # | 주제 | 결과물 | 관련 Step |
+|---|---|---|---|
+| ① | 3030 알루미늄 프레임 자동 설계 | 치수만 입력하면 프로파일 12개짜리 프레임 조립품 생성 | Step 13 · 14 |
+| ② | 3D 모델 → 2D 도면 자동 생성 | A3 제3각법 4면도 `CATDrawing` + 이미지 | Step 20 |
+| ③ | AutoDrawing GUI | 파일만 고르면 도면 생성, 폴더째 일괄 생성 | Step 21 |
+| ④ | EFEM 셀 최종 조립 | 장비 STEP + 3030 프레임 + FFU를 한 조립품으로 합치고 도면·PDF까지 | Step 22 |
+
+### ① 3030 알루미늄 프레임 — `FRAME / 3030` GUI → CATIA 조립품 (Step 13·14)
+
+`day2/frame_gui.py` 에서 디자인(box)과 가로·깊이·높이(600 × 500 × 600 mm)를 입력하고 **[미리보기] → [CATIA 연결 확인] → [CATIA에서 생성]** 을 누르면,
+기둥 4개(`POST_01~04`, L600) + 가로보 8개(`BEAM_X` L540 · `BEAM_Y` L440) = **프로파일 12개, 총 6.32 m** 짜리 `FRAME3030_BOX.CATProduct` 가 만들어집니다.
+
+<img src="docs/images/frame_3030.png" alt="FRAME/3030 GUI와 CATIA 프레임 조립품 트리" width="900">
+
+### ② 3D 조립품 → A3 4면도 자동 생성 (Step 20)
+
+`day3/autodrawing.py` 에 ①의 `FRAME3030_BOX.CATProduct` 를 넣으면 **정면 · 평면 · 우측면 · 등각(Iso) 4개 뷰**와 표제란이 들어간 `FRAME3030_BOX.CATDrawing`(축척 1:10)과 미리보기 이미지가 출력 폴더에 저장됩니다.
+같은 폴더에 부품별 `CATPart` 12개와 절단 목록 `cutlist.csv` 도 함께 남습니다.
+
+<img src="docs/images/cartProduct.png" alt="FRAME3030_BOX 자동 도면과 출력 폴더" width="900">
+
+### ③ `CATIA AutoDrawing` GUI — 파일 선택 / 폴더 일괄 도면 (Step 21)
+
+`day3/autodrawing_gui.py` 에서 CATPart · CATProduct · STEP 파일을 고르고 도면 제목 · 회사 · 설계자 · 축척을 입력하면 도면이 만들어집니다.
+**[폴더 일괄 생성]** 을 누르면 폴더 안 부품 전부(예: `BEAM_X_05_L540` …)의 도면을 한 번에 만듭니다.
+
+<img src="docs/images/cartia_floor.png" alt="CATIA AutoDrawing GUI 폴더 일괄 생성" width="900">
+
+### ④ 최종 — EFEM 셀 조립품 + 도면 + PDF (Step 22)
+
+`day3/efem_cell.py` 가 클라우드에서 만든 `design_params.json` 과 비식별 장비 STEP 을 읽어
+**장비(`ASM_0001`) + 3030 프레임(`FRAME3030_BOX`) + FFU(`FFU_1100x1175x350`)** 를 `EFEM_CELL.CATProduct` 하나로 조립하고,
+4면도 `EFEM_CELL.CATDrawing`(축척 1:50), `EFEM_CELL.pdf`, 3D 이미지까지 자동으로 만듭니다.
+
+<img src="docs/images/efem_cell.png" alt="EFEM_CELL 최종 조립품과 도면" width="900">
+
+---
+
 ## 0. 준비물 (설치로 해결되지 않는 것)
 
 | 준비물 | 어디서 |
