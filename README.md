@@ -1,7 +1,11 @@
 # 첨단 AX CATIA 융합 자동화 캠프 — (Step 01 ~ 24)
 > "클라우드에서 장비 CAD(STEP)를 분석하고, 그 치수로 Python이 CATIA V5 형상과 도면을 자동으로 만드는 설계 자동화" <br>
 > ⚠️ 이 저장소에는 CAD 파일(`*.stp`), 비식별 대응표(`*_mapping.csv`), SSH 키(`*.pem`)가 **들어 있지 않습니다.** 강사에게 따로 받으세요.
-> 공공데이터 step 파일로도 실습하실 수 있습니다. 
+>
+> 📂 **STEP 파일이 없다면 — 공공데이터로도 실습할 수 있습니다.**  
+> 미국 국립표준기술연구소(NIST)가 무료 공개한 CAD 모델·STEP 파일: [NIST MBE PMI — Download Free CAD Models, STEP Files](https://www.nist.gov/ctl/smart-connected-systems-division/smart-connected-manufacturing-systems-group/mbe-pmi-0)  
+> 페이지의 **NIST PMI STEP Files** 압축을 받아 STEP 하나를 골라 `LPM_OPENER.stp` 로 이름을 바꿔 `code\data\raw\` 에 넣으면 아래 명령을 그대로 따라 할 수 있습니다. (모두 mm 단위 · 단일 부품이라 BOM은 1줄, 결과 치수는 문서와 다르게 나옵니다)
+
 ---
 
 ## 🎯 최종 결과물 미리보기 — 이 캠프를 마치면 무엇이 만들어지나요?
@@ -55,7 +59,7 @@
 |---|---|
 | Windows PC + **CATIA V5** (라이선스) | 강의장 PC |
 | **엘리스 클라우드** 계정 · 실행 중인 인스턴스 · `.pem` 비밀키 | 엘리스 대시보드 |
-| `LPM_OPENER.stp` (원본 STEP) | 강사 |
+| `LPM_OPENER.stp` (원본 STEP) | 강사 (없으면 [NIST 공공 STEP 파일](https://www.nist.gov/ctl/smart-connected-systems-division/smart-connected-manufacturing-systems-group/mbe-pmi-0)로 대체) |
 
 ## 1. 내 PC 설치 (약 10분)
 
