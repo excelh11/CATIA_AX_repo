@@ -12,6 +12,17 @@
 
 ---
 
+## 🗺️ 전체 플로우 — 파일 31개가 어떻게 연결되나요?
+
+Step 02 ~ 24 에서 만드는 파일들이 서로 어떻게 import · 상속 · 실행되는지 한 장으로 그린 지도입니다.
+**이미지를 클릭하면 Figma 플로우가 열립니다.** (로그인 없이 볼 수 있습니다)
+
+[![CATIA AX 캠프 파일 연결 지도 — 클릭하면 Figma 플로우로 이동](docs/images/catia_ax_flow_map.svg)](https://www.figma.com/proto/ZWV2rVolIj8vzwtKh94YSp/ax_catia?node-id=1-2&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+
+▶ [Figma 플로우로 보기](https://www.figma.com/proto/ZWV2rVolIj8vzwtKh94YSp/ax_catia?node-id=1-2&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1) · [원본 이미지(SVG) 크게 보기](docs/images/catia_ax_flow_map.svg)
+
+---
+
 ## 🎯 최종 결과물 미리보기 — 이 캠프를 마치면 무엇이 만들어지나요?
 
 ```text

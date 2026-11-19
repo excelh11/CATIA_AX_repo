@@ -1,0 +1,621 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3210" height="2186" viewBox="0 0 3210 2186" font-family="Pretendard, 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">
+<rect width="3210" height="2186" fill="#ffffff"/>
+<text x="40" y="58" font-size="32" font-weight="800" fill="#0f172a">CATIA AX 캠프 — 파일 연결 지도 (전체)</text>
+<text x="40" y="90" font-size="16" fill="#475569">파일 31개 · #번호 = 교재에서 만든 순서 · 관련 있는 파일끼리 묶음 · 가장 많이 쓰이는 CATIA 엔진(#02 · #03)은 가운데</text>
+<circle cx="60.0" cy="128" r="13" fill="#0369a1"/><text x="60.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">01</text>
+<circle cx="163.0" cy="128" r="13" fill="#6d28d9"/><text x="163.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">02</text>
+<circle cx="266.0" cy="128" r="13" fill="#6d28d9"/><text x="266.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">03</text>
+<circle cx="369.0" cy="128" r="13" fill="#6d28d9"/><text x="369.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">04</text>
+<circle cx="472.0" cy="128" r="13" fill="#6d28d9"/><text x="472.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">05</text>
+<circle cx="575.0" cy="128" r="13" fill="#334155"/><text x="575.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">06</text>
+<circle cx="678.0" cy="128" r="13" fill="#334155"/><text x="678.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">07</text>
+<circle cx="781.0" cy="128" r="13" fill="#1d4ed8"/><text x="781.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">08</text>
+<circle cx="884.0" cy="128" r="13" fill="#be185d"/><text x="884.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">09</text>
+<circle cx="987.0" cy="128" r="13" fill="#be185d"/><text x="987.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">10</text>
+<circle cx="1090.0" cy="128" r="13" fill="#be185d"/><text x="1090.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">11</text>
+<circle cx="1193.0" cy="128" r="13" fill="#be185d"/><text x="1193.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">12</text>
+<circle cx="1296.0" cy="128" r="13" fill="#be185d"/><text x="1296.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">13</text>
+<circle cx="1399.0" cy="128" r="13" fill="#334155"/><text x="1399.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">14</text>
+<circle cx="1502.0" cy="128" r="13" fill="#1d4ed8"/><text x="1502.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">15</text>
+<circle cx="1605.0" cy="128" r="13" fill="#1d4ed8"/><text x="1605.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">16</text>
+<circle cx="1708.0" cy="128" r="13" fill="#1d4ed8"/><text x="1708.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">17</text>
+<circle cx="1811.0" cy="128" r="13" fill="#1d4ed8"/><text x="1811.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">18</text>
+<circle cx="1914.0" cy="128" r="13" fill="#1d4ed8"/><text x="1914.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">19</text>
+<circle cx="2017.0" cy="128" r="13" fill="#1d4ed8"/><text x="2017.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">20</text>
+<circle cx="2120.0" cy="128" r="13" fill="#b45309"/><text x="2120.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">21</text>
+<circle cx="2223.0" cy="128" r="13" fill="#b45309"/><text x="2223.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">22</text>
+<circle cx="2326.0" cy="128" r="13" fill="#b45309"/><text x="2326.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">23</text>
+<circle cx="2429.0" cy="128" r="13" fill="#b45309"/><text x="2429.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">24</text>
+<circle cx="2532.0" cy="128" r="13" fill="#15803d"/><text x="2532.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">25</text>
+<circle cx="2635.0" cy="128" r="13" fill="#15803d"/><text x="2635.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">26</text>
+<circle cx="2738.0" cy="128" r="13" fill="#15803d"/><text x="2738.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">27</text>
+<circle cx="2841.0" cy="128" r="13" fill="#15803d"/><text x="2841.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">28</text>
+<circle cx="2944.0" cy="128" r="13" fill="#15803d"/><text x="2944.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">29</text>
+<circle cx="3047.0" cy="128" r="13" fill="#1d4ed8"/><text x="3047.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">30</text>
+<circle cx="3150.0" cy="128" r="13" fill="#1d4ed8"/><text x="3150.0" y="132.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">31</text>
+<rect x="40" y="172" width="3130" height="128" rx="14" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="62" y="202" font-size="15" font-weight="800" fill="#0f172a">선 모양 = 종류</text>
+<path d="M62.0,228.0 L105.0,228.0" fill="none" stroke="#334155" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="116.0,228.0 105.0,232.5 105.0,223.5" fill="#334155"/>
+<text x="130" y="233" font-size="13.5" fill="#0f172a">import — 함수를 호출</text>
+<path d="M62.0,254.0 L101.0,254.0" fill="none" stroke="#334155" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="116.0,254.0 101.0,261.0 101.0,247.0" fill="#ffffff" stroke="#334155" stroke-width="2" stroke-linejoin="round"/>
+<text x="130" y="259" font-size="13.5" fill="#0f172a">상속 — 자식이 부모(ToolApp)를 물려받음</text>
+<path d="M62.0,280.0 L102.0,280.0" fill="none" stroke="#334155" stroke-width="5.5" stroke-linejoin="round"/>
+<path d="M62.0,280.0 L102.0,280.0" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="116.0,280.0 102.0,286.5 102.0,273.5" fill="#334155"/>
+<text x="130" y="285" font-size="13.5" fill="#0f172a">실행 — 별도 프로그램으로 실행</text>
+<text x="470" y="202" font-size="15" font-weight="800" fill="#0f172a">선 색 = 선마다 다름</text>
+<rect x="470" y="224" width="12" height="12" rx="3" fill="#e11d48"/><text x="492" y="235" font-size="13.5" fill="#0f172a">선 색 = 그 선이 나온 카드 안 '그 줄'의 글자 색</text>
+<rect x="470" y="248" width="12" height="12" rx="3" fill="#ea580c"/><text x="492" y="259" font-size="13.5" fill="#0f172a">같은 카드로 모이는 선 · 같은 카드에서 나가는 선은 항상 서로 다른 색</text>
+<rect x="470" y="272" width="12" height="12" rx="3" fill="#a16207"/><text x="492" y="283" font-size="13.5" fill="#0f172a">화살촉은 들어가는 자리를 벌려서 겹치지 않게 했다</text>
+<text x="1400" y="202" font-size="15" font-weight="800" fill="#0f172a">가운데 공통 엔진 <tspan font-weight="400" fill="#475569" font-size="13">(가는 선 · 배지)</tspan></text>
+<rect x="1400" y="219" width="270" height="19" rx="9.5" fill="#0d9488" fill-opacity="0.10"/><circle cx="1411" cy="228" r="5" fill="#0d9488"/><text x="1422" y="232" font-size="12" font-weight="800" fill="#0d9488">#02 catia_conn.py<tspan font-weight="400" fill="#475569">  ← 8개 파일이 사용</tspan></text>
+<rect x="1400" y="245" width="270" height="19" rx="9.5" fill="#d97706" fill-opacity="0.10"/><circle cx="1411" cy="254" r="5" fill="#d97706"/><text x="1422" y="258" font-size="12" font-weight="800" fill="#d97706">#03 cad.py<tspan font-weight="400" fill="#475569">  ← 6개 파일이 사용</tspan></text>
+<rect x="1400" y="271" width="270" height="19" rx="9.5" fill="#4f46e5" fill-opacity="0.10"/><circle cx="1411" cy="280" r="5" fill="#4f46e5"/><text x="1422" y="284" font-size="12" font-weight="800" fill="#4f46e5">#15 common.py<tspan font-weight="400" fill="#475569">  ← 5개 파일이 사용</tspan></text>
+<text x="1760" y="202" font-size="15" font-weight="800" fill="#0f172a">카드 색 = 폴더</text>
+<rect x="1760" y="220" width="24" height="18" rx="5" fill="#e0f2fe" stroke="#0369a1" stroke-width="1.5"/>
+<text x="1792" y="234" font-size="13" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" fill="#0f172a">code\</text>
+<rect x="2030" y="220" width="24" height="18" rx="5" fill="#ede9fe" stroke="#6d28d9" stroke-width="1.5"/>
+<text x="2062" y="234" font-size="13" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" fill="#0f172a">code\common\</text>
+<rect x="2300" y="220" width="24" height="18" rx="5" fill="#f1f5f9" stroke="#334155" stroke-width="1.5"/>
+<text x="2332" y="234" font-size="13" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" fill="#0f172a">code\day1\</text>
+<rect x="2570" y="220" width="24" height="18" rx="5" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
+<text x="2602" y="234" font-size="13" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" fill="#0f172a">code\day2\</text>
+<rect x="1760" y="248" width="24" height="18" rx="5" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
+<text x="1792" y="262" font-size="13" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" fill="#0f172a">code\day3\</text>
+<rect x="2030" y="248" width="24" height="18" rx="5" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="2062" y="262" font-size="13" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" fill="#0f172a">scripts\</text>
+<rect x="2300" y="248" width="24" height="18" rx="5" fill="#fce7f3" stroke="#be185d" stroke-width="1.5"/>
+<text x="2332" y="262" font-size="13" font-family="Pretendard, 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" fill="#0f172a">☁️ 엘리스 ~/code/</text>
+<rect x="1760" y="274" width="50" height="19" rx="9.5" fill="#16a34a"/><text x="1785" y="287.5" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">자동화</text><text x="1820" y="288" font-size="12.5" fill="#0f172a">Step 24 경로</text><text x="1930" y="288" font-size="12.5" fill="#0f172a"><tspan font-weight="800">⇢ #번호</tspan> 파일로 전달 (선 없음)</text><rect x="2190" y="274" width="46" height="19" rx="9.5" fill="#f59e0b"/><text x="2213" y="287.5" font-size="11" font-weight="800" fill="#fff" text-anchor="middle">NEW</text><text x="2244" y="288" font-size="12.5" fill="#0f172a">이번 Step 에 생김</text>
+<rect x="136" y="400" width="808" height="342" rx="20" fill="#f8fafc" fill-opacity="1" stroke="#94a3b8" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="154" y="426" font-size="18" font-weight="800" fill="#0f172a">STEP 준비<tspan font-size="13" font-weight="400" fill="#475569">   비식별화 · BOM</tspan></text>
+<rect x="996" y="400" width="2098" height="342" rx="20" fill="#fdf2f8" fill-opacity="1" stroke="#f9a8d4" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="1014" y="426" font-size="18" font-weight="800" fill="#0f172a">클라우드 분석<tspan font-size="13" font-weight="400" fill="#475569">   엘리스에서 실행 → JSON</tspan></text>
+<rect x="136" y="788" width="808" height="992" rx="20" fill="#faf5ff" fill-opacity="1" stroke="#d8b4fe" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="154" y="814" font-size="18" font-weight="800" fill="#0f172a">GUI 화면<tspan font-size="13" font-weight="400" fill="#475569">   ToolApp 을 상속하는 창</tspan></text>
+<rect x="996" y="788" width="1238" height="992" rx="20" fill="#f0fdf4" fill-opacity="1" stroke="#86efac" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="1014" y="814" font-size="18" font-weight="800" fill="#0f172a">형상 생성<tspan font-size="13" font-weight="400" fill="#475569">   엔진을 불러 조립품을 만든다</tspan></text>
+<rect x="1436" y="1184" width="358" height="586" rx="20" fill="#ecfeff" fill-opacity="0.9" stroke="#0d9488" stroke-width="3"/>
+<text x="1454" y="1210" font-size="17" font-weight="800" fill="#0d9488">CATIA 엔진<tspan font-size="13" font-weight="400" fill="#475569">   가장 많이 쓰이는 공통 모듈</tspan></text>
+<rect x="2286" y="788" width="808" height="336" rx="20" fill="#fff7ed" fill-opacity="1" stroke="#fdba74" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="2304" y="814" font-size="18" font-weight="800" fill="#0f172a">자동화<tspan font-size="13" font-weight="400" fill="#475569">   다른 프로그램을 실행시킨다</tspan></text>
+<rect x="2286" y="1170" width="808" height="896" rx="20" fill="#eff6ff" fill-opacity="1" stroke="#93c5fd" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="2304" y="1196" font-size="18" font-weight="800" fill="#0f172a">템플릿 · 요청서<tspan font-size="13" font-weight="400" fill="#475569">   scripts\common.py 중심</tspan></text>
+<rect x="136" y="1826" width="808" height="240" rx="20" fill="#f8fafc" fill-opacity="1" stroke="#cbd5e1" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="154" y="1852" font-size="18" font-weight="800" fill="#0f172a">혼자 실행<tspan font-size="13" font-weight="400" fill="#475569">   연결 없음</tspan></text>
+<path d="M490.0,932.0 L540.0,932.0 L540.0,1162.0 L1400.0,1162.0 L1400.0,1240.0 L1441.0,1240.0" fill="none" stroke="#0d9488" stroke-width="1.5" stroke-linejoin="round" stroke-opacity="0.8"/>
+<polygon points="1450.0,1240.0 1441.0,1244.0 1441.0,1236.0" fill="#0d9488"/>
+<path d="M490.0,961.0 L540.0,961.0 L540.0,858.0 L579.0,858.0" fill="none" stroke="#e11d48" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="590.0,858.0 579.0,862.5 579.0,853.5" fill="#e11d48"/>
+<path d="M490.0,545.0 L540.0,545.0 L540.0,470.0 L579.0,470.0" fill="none" stroke="#2563eb" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="590.0,470.0 579.0,474.5 579.0,465.5" fill="#2563eb"/>
+<path d="M1880.0,545.0 L1830.0,545.0 L1830.0,470.0 L1791.0,470.0" fill="none" stroke="#16a34a" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="1780.0,470.0 1791.0,465.5 1791.0,474.5" fill="#16a34a"/>
+<path d="M1350.0,932.0 L1400.0,932.0 L1400.0,1255.0 L1441.0,1255.0" fill="none" stroke="#0d9488" stroke-width="1.5" stroke-linejoin="round" stroke-opacity="0.8"/>
+<polygon points="1450.0,1255.0 1441.0,1259.0 1441.0,1251.0" fill="#0d9488"/>
+<path d="M1350.0,954.0 L1400.0,954.0 L1400.0,1610.0 L1441.0,1610.0" fill="none" stroke="#d97706" stroke-width="1.5" stroke-linejoin="round" stroke-opacity="0.8"/>
+<polygon points="1450.0,1610.0 1441.0,1614.0 1441.0,1606.0" fill="#d97706"/>
+<path d="M2740.0,1314.0 L2690.0,1314.0 L2690.0,1610.0 L2649.0,1610.0" fill="none" stroke="#4f46e5" stroke-width="1.5" stroke-linejoin="round" stroke-opacity="0.8"/>
+<polygon points="2640.0,1610.0 2649.0,1606.0 2649.0,1614.0" fill="#4f46e5"/>
+<path d="M2740.0,1684.0 L2690.0,1684.0 L2690.0,1625.0 L2649.0,1625.0" fill="none" stroke="#4f46e5" stroke-width="1.5" stroke-linejoin="round" stroke-opacity="0.8"/>
+<polygon points="2640.0,1625.0 2649.0,1621.0 2649.0,1629.0" fill="#4f46e5"/>
+<path d="M2640.0,1314.0 L2679.0,1314.0 L2679.0,1640.0 L2649.0,1640.0" fill="none" stroke="#4f46e5" stroke-width="1.5" stroke-linejoin="round" stroke-opacity="0.8"/>
+<polygon points="2640.0,1640.0 2649.0,1636.0 2649.0,1644.0" fill="#4f46e5"/>
+<path d="M2740.0,1970.0 L2690.0,1970.0 L2690.0,1655.0 L2649.0,1655.0" fill="none" stroke="#4f46e5" stroke-width="1.5" stroke-linejoin="round" stroke-opacity="0.8"/>
+<polygon points="2640.0,1655.0 2649.0,1651.0 2649.0,1659.0" fill="#4f46e5"/>
+<path d="M1780.0,932.0 L1830.0,932.0 L1830.0,1240.0 L1789.0,1240.0" fill="none" stroke="#0d9488" stroke-width="1.5" stroke-linejoin="round" stroke-opacity="0.8"/>
+<polygon points="1780.0,1240.0 1789.0,1236.0 1789.0,1244.0" fill="#0d9488"/>
+<path d="M1780.0,954.0 L1830.0,954.0 L1830.0,1610.0 L1789.0,1610.0" fill="none" stroke="#d97706" stroke-width="1.5" stroke-linejoin="round" stroke-opacity="0.8"/>
+<polygon points="1780.0,1610.0 1789.0,1606.0 1789.0,1614.0" fill="#d97706"/>
+<path d="M490.0,1315.0 L540.0,1315.0 L540.0,858.0 L505.0,858.0" fill="none" stroke="#ea580c" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="490.0,858.0 505.0,851.0 505.0,865.0" fill="#ffffff" stroke="#ea580c" stroke-width="2" stroke-linejoin="round"/>
+<path d="M490.0,1349.0 L540.0,1349.0 L540.0,780.0 L1400.0,780.0 L1400.0,858.0 L1439.0,858.0" fill="none" stroke="#9333ea" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="1450.0,858.0 1439.0,862.5 1439.0,853.5" fill="#9333ea"/>
+<path d="M1880.0,932.0 L1819.0,932.0 L1819.0,1255.0 L1789.0,1255.0" fill="none" stroke="#0d9488" stroke-width="1.5" stroke-linejoin="round" stroke-opacity="0.8"/>
+<polygon points="1780.0,1255.0 1789.0,1251.0 1789.0,1259.0" fill="#0d9488"/>
+<path d="M1880.0,954.0 L1819.0,954.0 L1819.0,1625.0 L1789.0,1625.0" fill="none" stroke="#d97706" stroke-width="1.5" stroke-linejoin="round" stroke-opacity="0.8"/>
+<polygon points="1780.0,1625.0 1789.0,1621.0 1789.0,1629.0" fill="#d97706"/>
+<path d="M590.0,1315.0 L529.0,1315.0 L529.0,873.0 L505.0,873.0" fill="none" stroke="#0891b2" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="490.0,873.0 505.0,866.0 505.0,880.0" fill="#ffffff" stroke="#0891b2" stroke-width="2" stroke-linejoin="round"/>
+<path d="M920.0,1349.0 L970.0,1349.0 L970.0,769.0 L1830.0,769.0 L1830.0,858.0 L1869.0,858.0" fill="none" stroke="#a16207" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="1880.0,858.0 1869.0,862.5 1869.0,853.5" fill="#a16207"/>
+<path d="M1880.0,1314.0 L1830.0,1314.0 L1830.0,1270.0 L1789.0,1270.0" fill="none" stroke="#0d9488" stroke-width="1.5" stroke-linejoin="round" stroke-opacity="0.8"/>
+<polygon points="1780.0,1270.0 1789.0,1266.0 1789.0,1274.0" fill="#0d9488"/>
+<path d="M1880.0,1336.0 L1830.0,1336.0 L1830.0,1640.0 L1789.0,1640.0" fill="none" stroke="#d97706" stroke-width="1.5" stroke-linejoin="round" stroke-opacity="0.8"/>
+<polygon points="1780.0,1640.0 1789.0,1636.0 1789.0,1644.0" fill="#d97706"/>
+<path d="M490.0,1685.0 L540.0,1685.0 L540.0,888.0 L505.0,888.0" fill="none" stroke="#db2777" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="490.0,888.0 505.0,881.0 505.0,895.0" fill="#ffffff" stroke="#db2777" stroke-width="2" stroke-linejoin="round"/>
+<path d="M490.0,1719.0 L540.0,1719.0 L540.0,1151.0 L1830.0,1151.0 L1830.0,1240.0 L1869.0,1240.0" fill="none" stroke="#111827" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="1880.0,1240.0 1869.0,1244.5 1869.0,1235.5" fill="#111827"/>
+<path d="M1880.0,1684.0 L1830.0,1684.0 L1830.0,1285.0 L1789.0,1285.0" fill="none" stroke="#0d9488" stroke-width="1.5" stroke-linejoin="round" stroke-opacity="0.8"/>
+<polygon points="1780.0,1285.0 1789.0,1281.0 1789.0,1289.0" fill="#0d9488"/>
+<path d="M1880.0,1706.0 L1830.0,1706.0 L1830.0,1655.0 L1789.0,1655.0" fill="none" stroke="#d97706" stroke-width="1.5" stroke-linejoin="round" stroke-opacity="0.8"/>
+<polygon points="1780.0,1655.0 1789.0,1651.0 1789.0,1659.0" fill="#d97706"/>
+<path d="M920.0,1684.0 L970.0,1684.0 L970.0,1184.0 L1389.0,1184.0 L1389.0,1270.0 L1441.0,1270.0" fill="none" stroke="#0d9488" stroke-width="1.5" stroke-linejoin="round" stroke-opacity="0.8"/>
+<polygon points="1450.0,1270.0 1441.0,1274.0 1441.0,1266.0" fill="#0d9488"/>
+<path d="M920.0,1713.0 L959.0,1713.0 L959.0,1532.0 L1830.0,1532.0 L1830.0,1610.0 L1869.0,1610.0" fill="none" stroke="#65a30d" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="1880.0,1610.0 1869.0,1614.5 1869.0,1605.5" fill="#65a30d"/>
+<path d="M1350.0,1314.0 L1400.0,1314.0 L1400.0,1285.0 L1441.0,1285.0" fill="none" stroke="#0d9488" stroke-width="1.5" stroke-linejoin="round" stroke-opacity="0.8"/>
+<polygon points="1450.0,1285.0 1441.0,1289.0 1441.0,1281.0" fill="#0d9488"/>
+<path d="M1350.0,1336.0 L1400.0,1336.0 L1400.0,1625.0 L1441.0,1625.0" fill="none" stroke="#d97706" stroke-width="1.5" stroke-linejoin="round" stroke-opacity="0.8"/>
+<polygon points="1450.0,1625.0 1441.0,1629.0 1441.0,1621.0" fill="#d97706"/>
+<path d="M1350.0,1365.0 L1400.0,1365.0 L1400.0,873.0 L1439.0,873.0" fill="none" stroke="#1e3a8a" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="1450.0,873.0 1439.0,877.5 1439.0,868.5" fill="#1e3a8a"/>
+<path d="M1350.0,1399.0 L1400.0,1399.0 L1400.0,1140.0 L1819.0,1140.0 L1819.0,1255.0 L1869.0,1255.0" fill="none" stroke="#c2410c" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="1880.0,1255.0 1869.0,1259.5 1869.0,1250.5" fill="#c2410c"/>
+<path d="M1350.0,1433.0 L1389.0,1433.0 L1389.0,1521.0 L1819.0,1521.0 L1819.0,1625.0 L1869.0,1625.0" fill="none" stroke="#0f766e" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="1880.0,1625.0 1869.0,1629.5 1869.0,1620.5" fill="#0f766e"/>
+<path d="M2640.0,932.0 L2690.0,932.0 L2690.0,1670.0 L2649.0,1670.0" fill="none" stroke="#4f46e5" stroke-width="1.5" stroke-linejoin="round" stroke-opacity="0.8"/>
+<polygon points="2640.0,1670.0 2649.0,1666.0 2649.0,1674.0" fill="#4f46e5"/>
+<path d="M2310.0,961.0 L2260.0,961.0 L2260.0,392.0 L1830.0,392.0 L1830.0,485.0 L1794.0,485.0" fill="none" stroke="#7c2d12" stroke-width="5.5" stroke-linejoin="round"/>
+<path d="M2310.0,961.0 L2260.0,961.0 L2260.0,392.0 L1830.0,392.0 L1830.0,485.0 L1794.0,485.0" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="1780.0,485.0 1794.0,478.5 1794.0,491.5" fill="#7c2d12"/>
+<path d="M2640.0,995.0 L2690.0,995.0 L2690.0,470.0 L2654.0,470.0" fill="none" stroke="#6d28d9" stroke-width="5.5" stroke-linejoin="round"/>
+<path d="M2640.0,995.0 L2690.0,995.0 L2690.0,470.0 L2654.0,470.0" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="2640.0,470.0 2654.0,463.5 2654.0,476.5" fill="#6d28d9"/>
+<path d="M2640.0,1029.0 L2679.0,1029.0 L2679.0,470.0 L2726.0,470.0" fill="none" stroke="#be185d" stroke-width="5.5" stroke-linejoin="round"/>
+<path d="M2640.0,1029.0 L2679.0,1029.0 L2679.0,470.0 L2726.0,470.0" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="2740.0,470.0 2726.0,476.5 2726.0,463.5" fill="#be185d"/>
+<path d="M2310.0,1063.0 L2249.0,1063.0 L2249.0,1195.0 L1422.0,1195.0 L1422.0,1240.0 L1364.0,1240.0" fill="none" stroke="#475569" stroke-width="5.5" stroke-linejoin="round"/>
+<path d="M2310.0,1063.0 L2249.0,1063.0 L2249.0,1195.0 L1422.0,1195.0 L1422.0,1240.0 L1364.0,1240.0" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="1350.0,1240.0 1364.0,1233.5 1364.0,1246.5" fill="#475569"/>
+<path d="M2740.0,933.0 L2690.0,933.0 L2690.0,858.0 L2654.0,858.0" fill="none" stroke="#4d7c0f" stroke-width="5.5" stroke-linejoin="round"/>
+<path d="M2740.0,933.0 L2690.0,933.0 L2690.0,858.0 L2654.0,858.0" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="2640.0,858.0 2654.0,851.5 2654.0,864.5" fill="#4d7c0f"/>
+<g id="check_env">
+<rect x="160" y="1880" width="330" height="114" rx="12" fill="#fff" stroke="#0369a1" stroke-width="1.3"/>
+<path d="M161,1938 V1892 Q161,1881 172,1881 H478 Q489,1881 489,1892 V1938 Z" fill="#e0f2fe"/>
+<rect x="172" y="1890" width="38" height="22" rx="6" fill="#0369a1"/><text x="191" y="1906" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#01</text>
+<text x="218" y="1906" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">check_env.py</text>
+<text x="174" y="1930" font-size="11.5" fill="#0369a1"><tspan font-weight="700">Step 02</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">code\</tspan></text>
+<text x="174" y="1956" font-size="12" fill="#475569">환경 점검 (라이브러리 · CATIA)</text>
+<text x="174" y="1976" font-size="11.5" fill="#94a3b8" font-style="italic">연결 없음 — 혼자 실행</text>
+</g>
+<g id="catia_conn">
+<rect x="1450" y="1224" width="330" height="94" rx="12" fill="#fff" stroke="#16a34a" stroke-width="2.4"/>
+<path d="M1451,1282 V1236 Q1451,1225 1462,1225 H1768 Q1779,1225 1779,1236 V1282 Z" fill="#ede9fe"/>
+<rect x="1445" y="1238" width="10" height="34" rx="5" fill="#0d9488"/>
+<rect x="1462" y="1234" width="38" height="22" rx="6" fill="#6d28d9"/><text x="1481" y="1250" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#02</text>
+<text x="1508" y="1250" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">catia_conn.py</text>
+<text x="1464" y="1274" font-size="11.5" fill="#6d28d9"><tspan font-weight="700">Step 03</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">code\common\</tspan></text>
+<text x="1770" y="1250" font-size="12.5" font-weight="800" fill="#475569" text-anchor="end">← 8</text>
+<rect x="1720" y="1261" width="50" height="19" rx="9.5" fill="#16a34a"/><text x="1745" y="1274.5" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">자동화</text>
+<text x="1464" y="1300" font-size="12" fill="#475569">get_catia() → catia 객체 (또는 Mock)</text>
+</g>
+<g id="cad">
+<rect x="1450" y="1594" width="330" height="94" rx="12" fill="#fff" stroke="#16a34a" stroke-width="2.4"/>
+<path d="M1451,1652 V1606 Q1451,1595 1462,1595 H1768 Q1779,1595 1779,1606 V1652 Z" fill="#ede9fe"/>
+<rect x="1445" y="1608" width="10" height="34" rx="5" fill="#d97706"/>
+<rect x="1462" y="1604" width="38" height="22" rx="6" fill="#6d28d9"/><text x="1481" y="1620" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#03</text>
+<text x="1508" y="1620" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">cad.py</text>
+<text x="1464" y="1644" font-size="11.5" fill="#6d28d9"><tspan font-weight="700">Step 03</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">code\common\</tspan></text>
+<text x="1770" y="1620" font-size="12.5" font-weight="800" fill="#475569" text-anchor="end">← 6</text>
+<rect x="1720" y="1631" width="50" height="19" rx="9.5" fill="#16a34a"/><text x="1745" y="1644.5" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">자동화</text>
+<text x="1464" y="1670" font-size="12" fill="#475569">상자·원기둥·돌출·저장·캡처 + Timer</text>
+</g>
+<g id="preview">
+<rect x="590" y="842" width="330" height="94" rx="12" fill="#fff" stroke="#6d28d9" stroke-width="1.3"/>
+<path d="M591,900 V854 Q591,843 602,843 H908 Q919,843 919,854 V900 Z" fill="#ede9fe"/>
+<rect x="602" y="852" width="38" height="22" rx="6" fill="#6d28d9"/><text x="621" y="868" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#04</text>
+<text x="648" y="868" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">preview.py</text>
+<text x="604" y="892" font-size="11.5" fill="#6d28d9"><tspan font-weight="700">Step 03</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">code\common\</tspan></text>
+<text x="910" y="868" font-size="12.5" font-weight="800" fill="#475569" text-anchor="end">← 1</text>
+<text x="604" y="918" font-size="12" fill="#475569">matplotlib 3D 상자 미리보기</text>
+</g>
+<g id="gui_base">
+<rect x="160" y="842" width="330" height="156" rx="12" fill="#fff" stroke="#6d28d9" stroke-width="1.3"/>
+<path d="M161,900 V854 Q161,843 172,843 H478 Q489,843 489,854 V900 Z" fill="#ede9fe"/>
+<rect x="172" y="852" width="38" height="22" rx="6" fill="#6d28d9"/><text x="191" y="868" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#05</text>
+<text x="218" y="868" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">gui_base.py</text>
+<text x="174" y="892" font-size="11.5" fill="#6d28d9"><tspan font-weight="700">Step 03</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">code\common\</tspan></text>
+<text x="480" y="868" font-size="12.5" font-weight="800" fill="#475569" text-anchor="end">← 3</text>
+<rect x="428" y="879" width="52" height="19" rx="9.5" fill="#7c3aed"/><text x="454" y="892.5" font-size="11.5" font-weight="800" fill="#fff" text-anchor="middle">부모</text>
+<text x="174" y="918" font-size="12" fill="#475569">GUI 부모 클래스 ToolApp</text>
+<rect x="170" y="923" width="310" height="19" rx="9.5" fill="#0d9488" fill-opacity="0.10"/>
+<circle cx="181" cy="932" r="5" fill="#0d9488"/>
+<text x="192" y="936" font-size="11" fill="#0d9488" font-weight="800">#02 catia_conn<tspan font-weight="700" fill="#0d9488" fill-opacity="0.75"> · CATIA 연결</tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-weight="400" fill="#475569" font-size="10.3">  get_catia(dry_…</tspan></text>
+<line x1="170" y1="948" x2="480" y2="948" stroke="#e2e8f0"/>
+<text x="174" y="964" font-size="12.5" fill="#e11d48" font-weight="800">→ #04 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">preview.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 3D 미리보기</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  import</tspan></text>
+<text x="186" y="979" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">ToolApp.refresh() → draw_boxes(ax, boxes,…</text>
+</g>
+<g id="step_bom">
+<rect x="590" y="454" width="330" height="94" rx="12" fill="#fff" stroke="#334155" stroke-width="1.3"/>
+<path d="M591,512 V466 Q591,455 602,455 H908 Q919,455 919,466 V512 Z" fill="#f1f5f9"/>
+<rect x="602" y="464" width="38" height="22" rx="6" fill="#334155"/><text x="621" y="480" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#06</text>
+<text x="648" y="480" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">step_bom.py</text>
+<text x="604" y="504" font-size="11.5" fill="#334155"><tspan font-weight="700">Step 04</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">code\day1\</tspan></text>
+<text x="910" y="480" font-size="12.5" font-weight="800" fill="#475569" text-anchor="end">← 1</text>
+<text x="604" y="530" font-size="12" fill="#475569">BOM 추출: STEP 을 글자로 읽기</text>
+</g>
+<g id="step_deid">
+<rect x="160" y="454" width="330" height="264" rx="12" fill="#fff" stroke="#334155" stroke-width="1.3"/>
+<path d="M161,512 V466 Q161,455 172,455 H478 Q489,455 489,466 V512 Z" fill="#f1f5f9"/>
+<rect x="172" y="464" width="38" height="22" rx="6" fill="#334155"/><text x="191" y="480" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#07</text>
+<text x="218" y="480" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">step_deid.py</text>
+<text x="174" y="504" font-size="11.5" fill="#334155"><tspan font-weight="700">Step 04</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">code\day1\</tspan></text>
+<text x="174" y="530" font-size="12" fill="#475569">STEP 비식별화 (이름 → ASM_0001 …)</text>
+<line x1="170" y1="532" x2="480" y2="532" stroke="#e2e8f0"/>
+<text x="174" y="548" font-size="12.5" fill="#2563eb" font-weight="800">→ #06 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">step_bom.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · BOM 추출</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  import</tspan></text>
+<text x="186" y="563" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">iter_entities() refs_of() · QUOTED_RE</text>
+<text x="174" y="582" font-size="12.5" fill="#475569" font-weight="800">⇢ #09 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">day1/step_bom.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · BOM 추출</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  파일</tspan></text>
+<text x="186" y="597" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">LPM_OPENER_deid.stp</text>
+<text x="174" y="616" font-size="12.5" fill="#475569" font-weight="800">⇢ #10 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">day1/step_inspect.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 형상 분석</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  파일</tspan></text>
+<text x="186" y="631" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">LPM_OPENER_deid.stp</text>
+<text x="174" y="650" font-size="12.5" fill="#475569" font-weight="800">⇢ #20 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">open_efem.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · STEP 열기</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  파일</tspan></text>
+<text x="186" y="665" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">LPM_OPENER_deid.stp</text>
+<text x="174" y="684" font-size="12.5" fill="#475569" font-weight="800">⇢ #29 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">efem_cell.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 셀 통합 조립</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  파일</tspan></text>
+<text x="186" y="699" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">LPM_OPENER_deid.stp</text>
+</g>
+<g id="inspect_lpm">
+<rect x="590" y="1880" width="330" height="114" rx="12" fill="#fff" stroke="#1d4ed8" stroke-width="1.3"/>
+<path d="M591,1938 V1892 Q591,1881 602,1881 H908 Q919,1881 919,1892 V1938 Z" fill="#dbeafe"/>
+<rect x="602" y="1890" width="38" height="22" rx="6" fill="#1d4ed8"/><text x="621" y="1906" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#08</text>
+<text x="648" y="1906" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">inspect_lpm.py</text>
+<text x="604" y="1930" font-size="11.5" fill="#1d4ed8"><tspan font-weight="700">Step 04</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">scripts\</tspan></text>
+<text x="604" y="1956" font-size="12" fill="#475569">ZIP 점검 → efem_inventory.json</text>
+<text x="604" y="1976" font-size="11.5" fill="#94a3b8" font-style="italic">연결 없음 — 혼자 실행</text>
+</g>
+<g id="step_bom_c">
+<rect x="1020" y="454" width="330" height="128" rx="12" fill="#fff" stroke="#be185d" stroke-width="1.3"/>
+<path d="M1021,512 V466 Q1021,455 1032,455 H1338 Q1349,455 1349,466 V512 Z" fill="#fce7f3"/>
+<rect x="1032" y="464" width="38" height="22" rx="6" fill="#be185d"/><text x="1051" y="480" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#09</text>
+<text x="1078" y="480" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">day1/step_bom.py</text>
+<text x="1034" y="504" font-size="11.5" fill="#be185d"><tspan font-weight="700">Step 07</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="Pretendard, 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">☁️ 엘리스 ~/code/</tspan></text>
+<text x="1340" y="480" font-size="12.5" font-weight="800" fill="#475569" text-anchor="end">← 1</text>
+<text x="1034" y="530" font-size="12" fill="#475569">BOM 추출 (내 PC 와 같은 코드)</text>
+<line x1="1030" y1="532" x2="1340" y2="532" stroke="#e2e8f0"/>
+<text x="1034" y="548" font-size="12.5" fill="#475569" font-weight="800">⇢ #12 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">day1/make_params.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 설계 변수</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  파일</tspan></text>
+<text x="1046" y="563" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">_bom.csv</text>
+</g>
+<g id="step_inspect_c">
+<rect x="1450" y="454" width="330" height="196" rx="12" fill="#fff" stroke="#16a34a" stroke-width="2.4"/>
+<path d="M1451,512 V466 Q1451,455 1462,455 H1768 Q1779,455 1779,466 V512 Z" fill="#fce7f3"/>
+<rect x="1462" y="464" width="38" height="22" rx="6" fill="#be185d"/><text x="1481" y="480" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#10</text>
+<text x="1508" y="480" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">day1/step_inspect.py</text>
+<text x="1464" y="504" font-size="11.5" fill="#be185d"><tspan font-weight="700">Step 08</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="Pretendard, 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">☁️ 엘리스 ~/code/</tspan></text>
+<text x="1770" y="480" font-size="12.5" font-weight="800" fill="#475569" text-anchor="end">← 3</text>
+<rect x="1720" y="491" width="50" height="19" rx="9.5" fill="#16a34a"/><text x="1745" y="504.5" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">자동화</text>
+<text x="1464" y="530" font-size="12" fill="#475569">3D 형상 분석 → _summary.json</text>
+<line x1="1460" y1="532" x2="1770" y2="532" stroke="#e2e8f0"/>
+<text x="1464" y="548" font-size="12.5" fill="#475569" font-weight="800">⇢ #12 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">day1/make_params.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 설계 변수</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  파일</tspan></text>
+<text x="1476" y="563" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">_summary.json</text>
+<text x="1464" y="582" font-size="12.5" fill="#475569" font-weight="800">⇢ #27 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">autodrawing.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 자동 도면</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  파일</tspan></text>
+<text x="1476" y="597" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">_summary.json (--size-json)</text>
+<text x="1464" y="616" font-size="12.5" fill="#475569" font-weight="800">⇢ #29 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">efem_cell.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 셀 통합 조립</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  파일</tspan></text>
+<text x="1476" y="631" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">_summary.json</text>
+</g>
+<g id="step_render_gpu_c">
+<rect x="1880" y="454" width="330" height="128" rx="12" fill="#fff" stroke="#be185d" stroke-width="1.3"/>
+<path d="M1881,512 V466 Q1881,455 1892,455 H2198 Q2209,455 2209,466 V512 Z" fill="#fce7f3"/>
+<rect x="1892" y="464" width="38" height="22" rx="6" fill="#be185d"/><text x="1911" y="480" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#11</text>
+<text x="1938" y="480" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">day1/step_render_gpu.py</text>
+<text x="1894" y="504" font-size="11.5" fill="#be185d"><tspan font-weight="700">Step 08-1</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="Pretendard, 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">☁️ 엘리스 ~/code/</tspan></text>
+<text x="1894" y="530" font-size="12" fill="#475569">CPU vs GPU 렌더링 비교</text>
+<line x1="1890" y1="532" x2="2200" y2="532" stroke="#e2e8f0"/>
+<text x="1894" y="548" font-size="12.5" fill="#16a34a" font-weight="800">→ #10 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">day1/step_inspect.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 형상 분석</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  import</tspan></text>
+<text x="1906" y="563" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">load_step() bounding_box() count_solids()…</text>
+</g>
+<g id="make_params_c">
+<rect x="2310" y="454" width="330" height="230" rx="12" fill="#fff" stroke="#16a34a" stroke-width="2.4"/>
+<path d="M2311,512 V466 Q2311,455 2322,455 H2628 Q2639,455 2639,466 V512 Z" fill="#fce7f3"/>
+<rect x="2322" y="464" width="38" height="22" rx="6" fill="#be185d"/><text x="2341" y="480" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#12</text>
+<text x="2368" y="480" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">day1/make_params.py</text>
+<text x="2324" y="504" font-size="11.5" fill="#be185d"><tspan font-weight="700">Step 09</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="Pretendard, 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">☁️ 엘리스 ~/code/</tspan></text>
+<text x="2630" y="480" font-size="12.5" font-weight="800" fill="#475569" text-anchor="end">← 3</text>
+<rect x="2580" y="491" width="50" height="19" rx="9.5" fill="#16a34a"/><text x="2605" y="504.5" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">자동화</text>
+<text x="2324" y="530" font-size="12" fill="#475569">분석 결과 → design_params.json</text>
+<line x1="2320" y1="532" x2="2630" y2="532" stroke="#e2e8f0"/>
+<text x="2324" y="548" font-size="12.5" fill="#475569" font-weight="800">⇢ #14 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">hello_catia.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 첫 블록</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  파일</tspan></text>
+<text x="2336" y="563" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">"hello_block" (--params)</text>
+<text x="2324" y="582" font-size="12.5" fill="#475569" font-weight="800">⇢ #21 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">frame3030.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 프레임 생성</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  파일</tspan></text>
+<text x="2336" y="597" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">"frame3030" (--params)</text>
+<text x="2324" y="616" font-size="12.5" fill="#475569" font-weight="800">⇢ #25 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">ffu.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · FFU 생성</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  파일</tspan></text>
+<text x="2336" y="631" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">"ffu" (--params)</text>
+<text x="2324" y="650" font-size="12.5" fill="#475569" font-weight="800">⇢ #29 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">efem_cell.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 셀 통합 조립</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  파일</tspan></text>
+<text x="2336" y="665" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">design_params.json</text>
+</g>
+<g id="make_request_c">
+<rect x="2740" y="454" width="330" height="114" rx="12" fill="#fff" stroke="#16a34a" stroke-width="2.4"/>
+<path d="M2741,512 V466 Q2741,455 2752,455 H3058 Q3069,455 3069,466 V512 Z" fill="#fce7f3"/>
+<rect x="2752" y="464" width="38" height="22" rx="6" fill="#be185d"/><text x="2771" y="480" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#13</text>
+<text x="2798" y="480" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">make_request.py</text>
+<text x="2754" y="504" font-size="11.5" fill="#be185d"><tspan font-weight="700">Step 09</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="Pretendard, 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif">☁️ 엘리스 ~/code/</tspan></text>
+<text x="3060" y="480" font-size="12.5" font-weight="800" fill="#475569" text-anchor="end">← 1</text>
+<rect x="3010" y="491" width="50" height="19" rx="9.5" fill="#16a34a"/><text x="3035" y="504.5" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">자동화</text>
+<text x="2754" y="530" font-size="12" fill="#475569">높이·리비전 → request.json</text>
+<text x="2754" y="550" font-size="11.5" fill="#94a3b8" font-style="italic">run_full.py 가 원격 실행 → [4/6] 내려받음</text>
+</g>
+<g id="hello_catia">
+<rect x="1020" y="842" width="330" height="144" rx="12" fill="#fff" stroke="#334155" stroke-width="1.3"/>
+<path d="M1021,900 V854 Q1021,843 1032,843 H1338 Q1349,843 1349,854 V900 Z" fill="#f1f5f9"/>
+<rect x="1032" y="852" width="38" height="22" rx="6" fill="#334155"/><text x="1051" y="868" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#14</text>
+<text x="1078" y="868" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">hello_catia.py</text>
+<text x="1034" y="892" font-size="11.5" fill="#334155"><tspan font-weight="700">Step 10</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">code\day1\</tspan></text>
+<text x="1340" y="868" font-size="12.5" font-weight="800" fill="#475569" text-anchor="end">← 1</text>
+<text x="1034" y="918" font-size="12" fill="#475569">CATIA 첫 연결: 구멍 뚫린 블록</text>
+<rect x="1030" y="923" width="310" height="19" rx="9.5" fill="#0d9488" fill-opacity="0.10"/>
+<circle cx="1041" cy="932" r="5" fill="#0d9488"/>
+<text x="1052" y="936" font-size="11" fill="#0d9488" font-weight="800">#02 catia_conn<tspan font-weight="700" fill="#0d9488" fill-opacity="0.75"> · CATIA 연결</tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-weight="400" fill="#475569" font-size="10.3">  get_catia(dry_…</tspan></text>
+<rect x="1030" y="945" width="310" height="19" rx="9.5" fill="#d97706" fill-opacity="0.10"/>
+<circle cx="1041" cy="954" r="5" fill="#d97706"/>
+<text x="1052" y="958" font-size="11" fill="#d97706" font-weight="800">#03 cad<tspan font-weight="700" fill="#d97706" fill-opacity="0.75"> · 형상 도구</tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-weight="400" fill="#475569" font-size="10.3">  new_part() extrude() rec…</tspan></text>
+</g>
+<g id="common_s">
+<rect x="2310" y="1594" width="330" height="114" rx="12" fill="#fff" stroke="#16a34a" stroke-width="2.4"/>
+<path d="M2311,1652 V1606 Q2311,1595 2322,1595 H2628 Q2639,1595 2639,1606 V1652 Z" fill="#dbeafe"/>
+<rect x="2305" y="1608" width="10" height="34" rx="5" fill="#4f46e5"/>
+<rect x="2322" y="1604" width="38" height="22" rx="6" fill="#1d4ed8"/><text x="2341" y="1620" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#15</text>
+<text x="2368" y="1620" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">common.py</text>
+<text x="2324" y="1644" font-size="11.5" fill="#1d4ed8"><tspan font-weight="700">Step 11</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">scripts\</tspan></text>
+<text x="2630" y="1620" font-size="12.5" font-weight="800" fill="#475569" text-anchor="end">← 5</text>
+<rect x="2580" y="1631" width="50" height="19" rx="9.5" fill="#16a34a"/><text x="2605" y="1644.5" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">자동화</text>
+<text x="2324" y="1670" font-size="12" fill="#475569">ROOT · load_request() · catia()</text>
+<text x="2324" y="1690" font-size="11.5" fill="#94a3b8" font-style="italic">code\common\ 과 이름만 같은 다른 파일</text>
+</g>
+<g id="read_request">
+<rect x="2740" y="1224" width="330" height="122" rx="12" fill="#fff" stroke="#1d4ed8" stroke-width="1.3"/>
+<path d="M2741,1282 V1236 Q2741,1225 2752,1225 H3058 Q3069,1225 3069,1236 V1282 Z" fill="#dbeafe"/>
+<rect x="2752" y="1234" width="38" height="22" rx="6" fill="#1d4ed8"/><text x="2771" y="1250" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#16</text>
+<text x="2798" y="1250" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">read_request.py</text>
+<text x="2754" y="1274" font-size="11.5" fill="#1d4ed8"><tspan font-weight="700">Step 11</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">scripts\</tspan></text>
+<text x="3060" y="1250" font-size="12.5" font-weight="800" fill="#475569" text-anchor="end">← 1</text>
+<text x="2754" y="1300" font-size="12" fill="#475569">request.json 검증·출력만</text>
+<rect x="2750" y="1305" width="310" height="19" rx="9.5" fill="#4f46e5" fill-opacity="0.10"/>
+<circle cx="2761" cy="1314" r="5" fill="#4f46e5"/>
+<text x="2772" y="1318" font-size="11" fill="#4f46e5" font-weight="800">#15 common<tspan font-weight="700" fill="#4f46e5" fill-opacity="0.75"> · 요청서 검사·CATIA</tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-weight="400" fill="#475569" font-size="10.3">  load_request(R…</tspan></text>
+</g>
+<g id="build_template">
+<rect x="2740" y="1594" width="330" height="156" rx="12" fill="#fff" stroke="#1d4ed8" stroke-width="1.3"/>
+<path d="M2741,1652 V1606 Q2741,1595 2752,1595 H3058 Q3069,1595 3069,1606 V1652 Z" fill="#dbeafe"/>
+<rect x="2752" y="1604" width="38" height="22" rx="6" fill="#1d4ed8"/><text x="2771" y="1620" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#17</text>
+<text x="2798" y="1620" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">build_template.py</text>
+<text x="2754" y="1644" font-size="11.5" fill="#1d4ed8"><tspan font-weight="700">Step 11</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">scripts\</tspan></text>
+<text x="2754" y="1670" font-size="12" fill="#475569">기준 블록 CampBlock.CATPart 생성</text>
+<rect x="2750" y="1675" width="310" height="19" rx="9.5" fill="#4f46e5" fill-opacity="0.10"/>
+<circle cx="2761" cy="1684" r="5" fill="#4f46e5"/>
+<text x="2772" y="1688" font-size="11" fill="#4f46e5" font-weight="800">#15 common<tspan font-weight="700" fill="#4f46e5" fill-opacity="0.75"> · 요청서 검사·CATIA</tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-weight="400" fill="#475569" font-size="10.3">  catia()  켜져 있는…</tspan></text>
+<line x1="2750" y1="1700" x2="3060" y2="1700" stroke="#e2e8f0"/>
+<text x="2754" y="1716" font-size="12.5" fill="#475569" font-weight="800">⇢ #18 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">run.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 높이 변경</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  파일</tspan></text>
+<text x="2766" y="1731" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">templates\CampBlock.CATPart</text>
+</g>
+<g id="run">
+<rect x="2310" y="1224" width="330" height="122" rx="12" fill="#fff" stroke="#16a34a" stroke-width="2.4"/>
+<path d="M2311,1282 V1236 Q2311,1225 2322,1225 H2628 Q2639,1225 2639,1236 V1282 Z" fill="#dbeafe"/>
+<rect x="2322" y="1234" width="38" height="22" rx="6" fill="#1d4ed8"/><text x="2341" y="1250" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#18</text>
+<text x="2368" y="1250" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">run.py</text>
+<text x="2324" y="1274" font-size="11.5" fill="#1d4ed8"><tspan font-weight="700">Step 11</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">scripts\</tspan></text>
+<text x="2630" y="1250" font-size="12.5" font-weight="800" fill="#475569" text-anchor="end">← 2</text>
+<rect x="2580" y="1261" width="50" height="19" rx="9.5" fill="#16a34a"/><text x="2605" y="1274.5" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">자동화</text>
+<text x="2324" y="1300" font-size="12" fill="#475569">요청서대로 CampBlock 높이 변경</text>
+<rect x="2320" y="1305" width="310" height="19" rx="9.5" fill="#4f46e5" fill-opacity="0.10"/>
+<circle cx="2331" cy="1314" r="5" fill="#4f46e5"/>
+<text x="2342" y="1318" font-size="11" fill="#4f46e5" font-weight="800">#15 common<tspan font-weight="700" fill="#4f46e5" fill-opacity="0.75"> · 요청서 검사·CATIA</tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-weight="400" fill="#475569" font-size="10.3">  load_request()…</tspan></text>
+</g>
+<g id="make_request_l">
+<rect x="2310" y="1880" width="330" height="162" rx="12" fill="#fff" stroke="#1d4ed8" stroke-width="1.3"/>
+<path d="M2311,1938 V1892 Q2311,1881 2322,1881 H2628 Q2639,1881 2639,1892 V1938 Z" fill="#dbeafe"/>
+<rect x="2322" y="1890" width="38" height="22" rx="6" fill="#1d4ed8"/><text x="2341" y="1906" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#19</text>
+<text x="2368" y="1906" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">make_request.py</text>
+<text x="2324" y="1930" font-size="11.5" fill="#1d4ed8"><tspan font-weight="700">Step 11</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">scripts\</tspan></text>
+<text x="2324" y="1956" font-size="12" fill="#475569">요청서 만들기 (클라우드와 같은 코드)</text>
+<line x1="2320" y1="1958" x2="2630" y2="1958" stroke="#e2e8f0"/>
+<text x="2324" y="1974" font-size="12.5" fill="#475569" font-weight="800">⇢ #16 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">read_request.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 요청서 확인</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  파일</tspan></text>
+<text x="2336" y="1989" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">data\request.json</text>
+<text x="2324" y="2008" font-size="12.5" fill="#475569" font-weight="800">⇢ #18 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">run.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 높이 변경</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  파일</tspan></text>
+<text x="2336" y="2023" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">data\request.json</text>
+</g>
+<g id="open_efem">
+<rect x="2740" y="1880" width="330" height="122" rx="12" fill="#fff" stroke="#1d4ed8" stroke-width="1.3"/>
+<path d="M2741,1938 V1892 Q2741,1881 2752,1881 H3058 Q3069,1881 3069,1892 V1938 Z" fill="#dbeafe"/>
+<rect x="2752" y="1890" width="38" height="22" rx="6" fill="#1d4ed8"/><text x="2771" y="1906" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#20</text>
+<text x="2798" y="1906" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">open_efem.py</text>
+<text x="2754" y="1930" font-size="11.5" fill="#1d4ed8"><tspan font-weight="700">Step 12</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">scripts\</tspan></text>
+<text x="3060" y="1906" font-size="12.5" font-weight="800" fill="#475569" text-anchor="end">← 1</text>
+<text x="2754" y="1956" font-size="12" fill="#475569">비식별 STEP 을 CATIA 에서 열기</text>
+<rect x="2750" y="1961" width="310" height="19" rx="9.5" fill="#4f46e5" fill-opacity="0.10"/>
+<circle cx="2761" cy="1970" r="5" fill="#4f46e5"/>
+<text x="2772" y="1974" font-size="11" fill="#4f46e5" font-weight="800">#15 common<tspan font-weight="700" fill="#4f46e5" fill-opacity="0.75"> · 요청서 검사·CATIA</tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-weight="400" fill="#475569" font-size="10.3">  catia()</tspan></text>
+</g>
+<g id="frame3030">
+<rect x="1450" y="842" width="330" height="178" rx="12" fill="#fff" stroke="#16a34a" stroke-width="2.4"/>
+<path d="M1451,900 V854 Q1451,843 1462,843 H1768 Q1779,843 1779,854 V900 Z" fill="#fef3c7"/>
+<rect x="1462" y="852" width="38" height="22" rx="6" fill="#b45309"/><text x="1481" y="868" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#21</text>
+<text x="1508" y="868" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">frame3030.py</text>
+<text x="1464" y="892" font-size="11.5" fill="#b45309"><tspan font-weight="700">Step 13</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">code\day2\</tspan></text>
+<text x="1770" y="868" font-size="12.5" font-weight="800" fill="#475569" text-anchor="end">← 3</text>
+<rect x="1720" y="879" width="50" height="19" rx="9.5" fill="#16a34a"/><text x="1745" y="892.5" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">자동화</text>
+<text x="1464" y="918" font-size="12" fill="#475569">빔 배치 계산 + 조립품 build()</text>
+<rect x="1460" y="923" width="310" height="19" rx="9.5" fill="#0d9488" fill-opacity="0.10"/>
+<circle cx="1471" cy="932" r="5" fill="#0d9488"/>
+<text x="1482" y="936" font-size="11" fill="#0d9488" font-weight="800">#02 catia_conn<tspan font-weight="700" fill="#0d9488" fill-opacity="0.75"> · CATIA 연결</tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-weight="400" fill="#475569" font-size="10.3">  get_catia(dry_…</tspan></text>
+<rect x="1460" y="945" width="310" height="19" rx="9.5" fill="#d97706" fill-opacity="0.10"/>
+<circle cx="1471" cy="954" r="5" fill="#d97706"/>
+<text x="1482" y="958" font-size="11" fill="#d97706" font-weight="800">#03 cad<tspan font-weight="700" fill="#d97706" fill-opacity="0.75"> · 형상 도구</tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-weight="400" fill="#475569" font-size="10.3">  build(): new_product() a…</tspan></text>
+<line x1="1460" y1="970" x2="1770" y2="970" stroke="#e2e8f0"/>
+<text x="1464" y="986" font-size="12.5" fill="#475569" font-weight="800">⇢ #27 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">autodrawing.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 자동 도면</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  파일</tspan></text>
+<text x="1476" y="1001" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">*.CATProduct</text>
+</g>
+<g id="frame_gui">
+<rect x="160" y="1224" width="330" height="162" rx="12" fill="#fff" stroke="#b45309" stroke-width="1.3"/>
+<path d="M161,1282 V1236 Q161,1225 172,1225 H478 Q489,1225 489,1236 V1282 Z" fill="#fef3c7"/>
+<rect x="172" y="1234" width="38" height="22" rx="6" fill="#b45309"/><text x="191" y="1250" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#22</text>
+<text x="218" y="1250" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">frame_gui.py</text>
+<text x="174" y="1274" font-size="11.5" fill="#b45309"><tspan font-weight="700">Step 14</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">code\day2\</tspan></text>
+<text x="174" y="1300" font-size="12" fill="#475569">FrameApp (ToolApp 의 자식)</text>
+<line x1="170" y1="1302" x2="480" y2="1302" stroke="#e2e8f0"/>
+<text x="174" y="1318" font-size="12.5" fill="#ea580c" font-weight="800">▷ #05 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">gui_base.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · GUI 부모</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  부모 (상속)</tspan></text>
+<text x="186" y="1333" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">class FrameApp(ToolApp)</text>
+<text x="174" y="1352" font-size="12.5" fill="#9333ea" font-weight="800">→ #21 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">frame3030.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 프레임 생성</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  import</tspan></text>
+<text x="186" y="1367" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">members() to_boxes() cut_list() build()</text>
+</g>
+<g id="foup">
+<rect x="1880" y="842" width="330" height="178" rx="12" fill="#fff" stroke="#b45309" stroke-width="1.3"/>
+<path d="M1881,900 V854 Q1881,843 1892,843 H2198 Q2209,843 2209,854 V900 Z" fill="#fef3c7"/>
+<rect x="1892" y="852" width="38" height="22" rx="6" fill="#b45309"/><text x="1911" y="868" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#23</text>
+<text x="1938" y="868" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">foup.py</text>
+<text x="1894" y="892" font-size="11.5" fill="#b45309"><tspan font-weight="700">Step 15</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">code\day2\</tspan></text>
+<text x="2200" y="868" font-size="12.5" font-weight="800" fill="#475569" text-anchor="end">← 1</text>
+<text x="1894" y="918" font-size="12" fill="#475569">FOUP 치수 계산 + 조립품</text>
+<rect x="1890" y="923" width="310" height="19" rx="9.5" fill="#0d9488" fill-opacity="0.10"/>
+<circle cx="1901" cy="932" r="5" fill="#0d9488"/>
+<text x="1912" y="936" font-size="11" fill="#0d9488" font-weight="800">#02 catia_conn<tspan font-weight="700" fill="#0d9488" fill-opacity="0.75"> · CATIA 연결</tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-weight="400" fill="#475569" font-size="10.3">  get_catia(dry_…</tspan></text>
+<rect x="1890" y="945" width="310" height="19" rx="9.5" fill="#d97706" fill-opacity="0.10"/>
+<circle cx="1901" cy="954" r="5" fill="#d97706"/>
+<text x="1912" y="958" font-size="11" fill="#d97706" font-weight="800">#03 cad<tspan font-weight="700" fill="#d97706" fill-opacity="0.75"> · 형상 도구</tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-weight="400" fill="#475569" font-size="10.3">  build_one()/build_all():…</tspan></text>
+<line x1="1890" y1="970" x2="2200" y2="970" stroke="#e2e8f0"/>
+<text x="1894" y="986" font-size="12.5" fill="#475569" font-weight="800">⇢ #27 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">autodrawing.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 자동 도면</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  파일</tspan></text>
+<text x="1906" y="1001" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">*.CATProduct</text>
+</g>
+<g id="foup_gui">
+<rect x="590" y="1224" width="330" height="162" rx="12" fill="#fff" stroke="#b45309" stroke-width="1.3"/>
+<path d="M591,1282 V1236 Q591,1225 602,1225 H908 Q919,1225 919,1236 V1282 Z" fill="#fef3c7"/>
+<rect x="602" y="1234" width="38" height="22" rx="6" fill="#b45309"/><text x="621" y="1250" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#24</text>
+<text x="648" y="1250" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">foup_gui.py</text>
+<text x="604" y="1274" font-size="11.5" fill="#b45309"><tspan font-weight="700">Step 16</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">code\day2\</tspan></text>
+<text x="604" y="1300" font-size="12" fill="#475569">FoupApp (ToolApp 의 자식)</text>
+<line x1="600" y1="1302" x2="910" y2="1302" stroke="#e2e8f0"/>
+<text x="604" y="1318" font-size="12.5" fill="#0891b2" font-weight="800">▷ #05 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">gui_base.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · GUI 부모</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  부모 (상속)</tspan></text>
+<text x="616" y="1333" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">class FoupApp(ToolApp)</text>
+<text x="604" y="1352" font-size="12.5" fill="#a16207" font-weight="800">→ #23 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">foup.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · FOUP 생성</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  import</tspan></text>
+<text x="616" y="1367" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">dims() to_boxes() build_one() build_all()</text>
+</g>
+<g id="ffu">
+<rect x="1880" y="1224" width="330" height="178" rx="12" fill="#fff" stroke="#16a34a" stroke-width="2.4"/>
+<path d="M1881,1282 V1236 Q1881,1225 1892,1225 H2198 Q2209,1225 2209,1236 V1282 Z" fill="#dcfce7"/>
+<rect x="1892" y="1234" width="38" height="22" rx="6" fill="#15803d"/><text x="1911" y="1250" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#25</text>
+<text x="1938" y="1250" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">ffu.py</text>
+<text x="1894" y="1274" font-size="11.5" fill="#15803d"><tspan font-weight="700">Step 18</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">code\day3\</tspan></text>
+<text x="2200" y="1250" font-size="12.5" font-weight="800" fill="#475569" text-anchor="end">← 3</text>
+<rect x="2150" y="1261" width="50" height="19" rx="9.5" fill="#16a34a"/><text x="2175" y="1274.5" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">자동화</text>
+<text x="1894" y="1300" font-size="12" fill="#475569">풍량·정압 공학 계산 + 조립품</text>
+<rect x="1890" y="1305" width="310" height="19" rx="9.5" fill="#0d9488" fill-opacity="0.10"/>
+<circle cx="1901" cy="1314" r="5" fill="#0d9488"/>
+<text x="1912" y="1318" font-size="11" fill="#0d9488" font-weight="800">#02 catia_conn<tspan font-weight="700" fill="#0d9488" fill-opacity="0.75"> · CATIA 연결</tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-weight="400" fill="#475569" font-size="10.3">  get_catia(dry_…</tspan></text>
+<rect x="1890" y="1327" width="310" height="19" rx="9.5" fill="#d97706" fill-opacity="0.10"/>
+<circle cx="1901" cy="1336" r="5" fill="#d97706"/>
+<text x="1912" y="1340" font-size="11" fill="#d97706" font-weight="800">#03 cad<tspan font-weight="700" fill="#d97706" fill-opacity="0.75"> · 형상 도구</tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-weight="400" fill="#475569" font-size="10.3">  build(): new_product() b…</tspan></text>
+<line x1="1890" y1="1352" x2="2200" y2="1352" stroke="#e2e8f0"/>
+<text x="1894" y="1368" font-size="12.5" fill="#475569" font-weight="800">⇢ #27 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">autodrawing.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 자동 도면</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  파일</tspan></text>
+<text x="1906" y="1383" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">*.CATProduct</text>
+</g>
+<g id="ffu_gui">
+<rect x="160" y="1594" width="330" height="162" rx="12" fill="#fff" stroke="#15803d" stroke-width="1.3"/>
+<path d="M161,1652 V1606 Q161,1595 172,1595 H478 Q489,1595 489,1606 V1652 Z" fill="#dcfce7"/>
+<rect x="172" y="1604" width="38" height="22" rx="6" fill="#15803d"/><text x="191" y="1620" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#26</text>
+<text x="218" y="1620" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">ffu_gui.py</text>
+<text x="174" y="1644" font-size="11.5" fill="#15803d"><tspan font-weight="700">Step 19</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">code\day3\</tspan></text>
+<text x="174" y="1670" font-size="12" fill="#475569">FfuApp (ToolApp 의 자식)</text>
+<line x1="170" y1="1672" x2="480" y2="1672" stroke="#e2e8f0"/>
+<text x="174" y="1688" font-size="12.5" fill="#db2777" font-weight="800">▷ #05 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">gui_base.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · GUI 부모</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  부모 (상속)</tspan></text>
+<text x="186" y="1703" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">class FfuApp(ToolApp)</text>
+<text x="174" y="1722" font-size="12.5" fill="#111827" font-weight="800">→ #25 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">ffu.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · FFU 생성</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  import</tspan></text>
+<text x="186" y="1737" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">calc() to_boxes() build() report()</text>
+</g>
+<g id="autodrawing">
+<rect x="1880" y="1594" width="330" height="144" rx="12" fill="#fff" stroke="#16a34a" stroke-width="2.4"/>
+<path d="M1881,1652 V1606 Q1881,1595 1892,1595 H2198 Q2209,1595 2209,1606 V1652 Z" fill="#dcfce7"/>
+<rect x="1892" y="1604" width="38" height="22" rx="6" fill="#15803d"/><text x="1911" y="1620" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#27</text>
+<text x="1938" y="1620" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">autodrawing.py</text>
+<text x="1894" y="1644" font-size="11.5" fill="#15803d"><tspan font-weight="700">Step 20</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">code\day3\</tspan></text>
+<text x="2200" y="1620" font-size="12.5" font-weight="800" fill="#475569" text-anchor="end">← 6</text>
+<rect x="2150" y="1631" width="50" height="19" rx="9.5" fill="#16a34a"/><text x="2175" y="1644.5" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">자동화</text>
+<text x="1894" y="1670" font-size="12" fill="#475569">3D → A3 제3각법 4뷰 도면 + PDF</text>
+<rect x="1890" y="1675" width="310" height="19" rx="9.5" fill="#0d9488" fill-opacity="0.10"/>
+<circle cx="1901" cy="1684" r="5" fill="#0d9488"/>
+<text x="1912" y="1688" font-size="11" fill="#0d9488" font-weight="800">#02 catia_conn<tspan font-weight="700" fill="#0d9488" fill-opacity="0.75"> · CATIA 연결</tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-weight="400" fill="#475569" font-size="10.3">  get_catia(dry_…</tspan></text>
+<rect x="1890" y="1697" width="310" height="19" rx="9.5" fill="#d97706" fill-opacity="0.10"/>
+<circle cx="1901" cy="1706" r="5" fill="#d97706"/>
+<text x="1912" y="1710" font-size="11" fill="#d97706" font-weight="800">#03 cad<tspan font-weight="700" fill="#d97706" fill-opacity="0.75"> · 형상 도구</tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-weight="400" fill="#475569" font-size="10.3">  capture()  (이것 하나만)</tspan></text>
+</g>
+<g id="autodrawing_gui">
+<rect x="590" y="1594" width="330" height="156" rx="12" fill="#fff" stroke="#15803d" stroke-width="1.3"/>
+<path d="M591,1652 V1606 Q591,1595 602,1595 H908 Q919,1595 919,1606 V1652 Z" fill="#dcfce7"/>
+<rect x="602" y="1604" width="38" height="22" rx="6" fill="#15803d"/><text x="621" y="1620" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#28</text>
+<text x="648" y="1620" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">autodrawing_gui.py</text>
+<text x="604" y="1644" font-size="11.5" fill="#15803d"><tspan font-weight="700">Step 21</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">code\day3\</tspan></text>
+<text x="604" y="1670" font-size="12" fill="#475569">AutoDrawingApp (ToolApp 상속 아님)</text>
+<rect x="600" y="1675" width="310" height="19" rx="9.5" fill="#0d9488" fill-opacity="0.10"/>
+<circle cx="611" cy="1684" r="5" fill="#0d9488"/>
+<text x="622" y="1688" font-size="11" fill="#0d9488" font-weight="800">#02 catia_conn<tspan font-weight="700" fill="#0d9488" fill-opacity="0.75"> · CATIA 연결</tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-weight="400" fill="#475569" font-size="10.3">  get_catia(dry_…</tspan></text>
+<line x1="600" y1="1700" x2="910" y2="1700" stroke="#e2e8f0"/>
+<text x="604" y="1716" font-size="12.5" fill="#65a30d" font-weight="800">→ #27 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">autodrawing.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 자동 도면</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  import</tspan></text>
+<text x="616" y="1731" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">make_drawing() · auto_scale()</text>
+</g>
+<g id="efem_cell">
+<rect x="1020" y="1224" width="330" height="246" rx="12" fill="#fff" stroke="#16a34a" stroke-width="2.4"/>
+<path d="M1021,1282 V1236 Q1021,1225 1032,1225 H1338 Q1349,1225 1349,1236 V1282 Z" fill="#dcfce7"/>
+<rect x="1032" y="1234" width="38" height="22" rx="6" fill="#15803d"/><text x="1051" y="1250" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#29</text>
+<text x="1078" y="1250" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">efem_cell.py</text>
+<text x="1034" y="1274" font-size="11.5" fill="#15803d"><tspan font-weight="700">Step 22</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">code\day3\</tspan></text>
+<text x="1340" y="1250" font-size="12.5" font-weight="800" fill="#475569" text-anchor="end">← 4</text>
+<rect x="1290" y="1261" width="50" height="19" rx="9.5" fill="#16a34a"/><text x="1315" y="1274.5" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">자동화</text>
+<text x="1034" y="1300" font-size="12" fill="#475569">프레임 + FFU + EFEM 조립 + 도면</text>
+<rect x="1030" y="1305" width="310" height="19" rx="9.5" fill="#0d9488" fill-opacity="0.10"/>
+<circle cx="1041" cy="1314" r="5" fill="#0d9488"/>
+<text x="1052" y="1318" font-size="11" fill="#0d9488" font-weight="800">#02 catia_conn<tspan font-weight="700" fill="#0d9488" fill-opacity="0.75"> · CATIA 연결</tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-weight="400" fill="#475569" font-size="10.3">  get_catia(dry_…</tspan></text>
+<rect x="1030" y="1327" width="310" height="19" rx="9.5" fill="#d97706" fill-opacity="0.10"/>
+<circle cx="1041" cy="1336" r="5" fill="#d97706"/>
+<text x="1052" y="1340" font-size="11" fill="#d97706" font-weight="800">#03 cad<tspan font-weight="700" fill="#d97706" fill-opacity="0.75"> · 형상 도구</tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-weight="400" fill="#475569" font-size="10.3">  new_product() make_out_d…</tspan></text>
+<line x1="1030" y1="1352" x2="1340" y2="1352" stroke="#e2e8f0"/>
+<text x="1034" y="1368" font-size="12.5" fill="#1e3a8a" font-weight="800">→ #21 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">frame3030.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 프레임 생성</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  import</tspan></text>
+<text x="1046" y="1383" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">fr.build(catia, design, W, D, H)</text>
+<text x="1034" y="1402" font-size="12.5" fill="#c2410c" font-weight="800">→ #25 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">ffu.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · FFU 생성</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  import</tspan></text>
+<text x="1046" y="1417" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">ffu.calc() → ffu.build(catia, c)</text>
+<text x="1034" y="1436" font-size="12.5" fill="#0f766e" font-weight="800">→ #27 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">autodrawing.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 자동 도면</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  import</tspan></text>
+<text x="1046" y="1451" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">ad.make_drawing(catia, cell_path)</text>
+</g>
+<g id="run_full">
+<rect x="2310" y="842" width="330" height="258" rx="12" fill="#fff" stroke="#16a34a" stroke-width="2.4"/>
+<path d="M2311,900 V854 Q2311,843 2322,843 H2628 Q2639,843 2639,854 V900 Z" fill="#dbeafe"/>
+<rect x="2322" y="852" width="38" height="22" rx="6" fill="#1d4ed8"/><text x="2341" y="868" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#30</text>
+<text x="2368" y="868" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">run_full.py</text>
+<text x="2324" y="892" font-size="11.5" fill="#1d4ed8"><tspan font-weight="700">Step 24</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">scripts\</tspan></text>
+<text x="2630" y="868" font-size="12.5" font-weight="800" fill="#475569" text-anchor="end">← 1</text>
+<rect x="2580" y="879" width="50" height="19" rx="9.5" fill="#16a34a"/><text x="2605" y="892.5" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">자동화</text>
+<text x="2324" y="918" font-size="12" fill="#475569">업로드 → 분석 → 다운로드 → CATIA</text>
+<rect x="2320" y="923" width="310" height="19" rx="9.5" fill="#4f46e5" fill-opacity="0.10"/>
+<circle cx="2331" cy="932" r="5" fill="#4f46e5"/>
+<text x="2342" y="936" font-size="11" fill="#4f46e5" font-weight="800">#15 common<tspan font-weight="700" fill="#4f46e5" fill-opacity="0.75"> · 요청서 검사·CATIA</tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-weight="400" fill="#475569" font-size="10.3">  load_request()…</tspan></text>
+<line x1="2320" y1="948" x2="2630" y2="948" stroke="#e2e8f0"/>
+<text x="2324" y="964" font-size="12.5" fill="#7c2d12" font-weight="800">⇒ #10 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">day1/step_inspect.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 형상 분석</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  실행</tspan></text>
+<text x="2336" y="979" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">ssh_run()  [2/6] 형상 분석</text>
+<text x="2324" y="998" font-size="12.5" fill="#6d28d9" font-weight="800">⇒ #12 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">day1/make_params.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 설계 변수</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  실행</tspan></text>
+<text x="2336" y="1013" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">ssh_run()  [3/6] 설계 변수</text>
+<text x="2324" y="1032" font-size="12.5" fill="#be185d" font-weight="800">⇒ #13 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">make_request.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 요청서 생성</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  실행</tspan></text>
+<text x="2336" y="1047" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">ssh_run()  [3/6] 요청서</text>
+<text x="2324" y="1066" font-size="12.5" fill="#475569" font-weight="800">⇒ #29 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">efem_cell.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 셀 통합 조립</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  실행</tspan></text>
+<text x="2336" y="1081" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">subprocess.run()  [6/6] 통합 조립</text>
+</g>
+<g id="run_full_gui">
+<rect x="2740" y="842" width="330" height="128" rx="12" fill="#fff" stroke="#16a34a" stroke-width="2.4"/>
+<path d="M2741,900 V854 Q2741,843 2752,843 H3058 Q3069,843 3069,854 V900 Z" fill="#dbeafe"/>
+<rect x="2752" y="852" width="38" height="22" rx="6" fill="#1d4ed8"/><text x="2771" y="868" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">#31</text>
+<text x="2798" y="868" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="14.5" font-weight="700" fill="#0f172a">run_full_gui.py</text>
+<text x="2754" y="892" font-size="11.5" fill="#1d4ed8"><tspan font-weight="700">Step 24</tspan><tspan fill="#475569">  ·  </tspan><tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">scripts\</tspan></text>
+<rect x="3010" y="879" width="50" height="19" rx="9.5" fill="#16a34a"/><text x="3035" y="892.5" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">자동화</text>
+<text x="2754" y="918" font-size="12" fill="#475569">버튼 하나로 전체 자동화 실행</text>
+<line x1="2750" y1="920" x2="3060" y2="920" stroke="#e2e8f0"/>
+<text x="2754" y="936" font-size="12.5" fill="#4d7c0f" font-weight="800">⇒ #30 <tspan font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace">run_full.py</tspan><tspan font-weight="700" fill="#475569" font-size="11.5"> · 전체 자동화</tspan><tspan font-weight="400" fill="#94a3b8" font-size="11">  실행</tspan></text>
+<text x="2766" y="951" font-family="'JetBrains Mono', Consolas, 'D2Coding', monospace" font-size="10.5" fill="#475569">_worker() → subprocess.Popen(run_full.py)</text>
+</g>
+<rect x="511.4" y="900.5" width="57.2" height="18" rx="9" fill="#fff" stroke="#e11d48" stroke-width="1.6"/><text x="540.0" y="913.5" font-size="11.5" font-weight="800" fill="#e11d48" text-anchor="middle">import</text>
+<rect x="511.4" y="498.5" width="57.2" height="18" rx="9" fill="#fff" stroke="#2563eb" stroke-width="1.6"/><text x="540.0" y="511.5" font-size="11.5" font-weight="800" fill="#2563eb" text-anchor="middle">import</text>
+<rect x="1801.4" y="498.5" width="57.2" height="18" rx="9" fill="#fff" stroke="#16a34a" stroke-width="1.6"/><text x="1830.0" y="511.5" font-size="11.5" font-weight="800" fill="#16a34a" text-anchor="middle">import</text>
+<rect x="495.8" y="1077.5" width="88.4" height="18" rx="9" fill="#fff" stroke="#ea580c" stroke-width="1.6"/><text x="540.0" y="1090.5" font-size="11.5" font-weight="800" fill="#ea580c" text-anchor="middle">상속 → 부모</text>
+<rect x="941.4" y="771.0" width="57.2" height="18" rx="9" fill="#fff" stroke="#9333ea" stroke-width="1.6"/><text x="970.0" y="784.0" font-size="11.5" font-weight="800" fill="#9333ea" text-anchor="middle">import</text>
+<rect x="484.8" y="1173.4" width="88.4" height="18" rx="9" fill="#fff" stroke="#0891b2" stroke-width="1.6"/><text x="529.0" y="1186.4" font-size="11.5" font-weight="800" fill="#0891b2" text-anchor="middle">상속 → 부모</text>
+<rect x="1371.4" y="760.0" width="57.2" height="18" rx="9" fill="#fff" stroke="#a16207" stroke-width="1.6"/><text x="1400.0" y="773.0" font-size="11.5" font-weight="800" fill="#a16207" text-anchor="middle">import</text>
+<rect x="495.8" y="1277.5" width="88.4" height="18" rx="9" fill="#fff" stroke="#db2777" stroke-width="1.6"/><text x="540.0" y="1290.5" font-size="11.5" font-weight="800" fill="#db2777" text-anchor="middle">상속 → 부모</text>
+<rect x="1156.4" y="1142.0" width="57.2" height="18" rx="9" fill="#fff" stroke="#111827" stroke-width="1.6"/><text x="1185.0" y="1155.0" font-size="11.5" font-weight="800" fill="#111827" text-anchor="middle">import</text>
+<rect x="1365.9" y="1523.0" width="57.2" height="18" rx="9" fill="#fff" stroke="#65a30d" stroke-width="1.6"/><text x="1394.5" y="1536.0" font-size="11.5" font-weight="800" fill="#65a30d" text-anchor="middle">import</text>
+<rect x="1371.4" y="1110.0" width="57.2" height="18" rx="9" fill="#fff" stroke="#1e3a8a" stroke-width="1.6"/><text x="1400.0" y="1123.0" font-size="11.5" font-weight="800" fill="#1e3a8a" text-anchor="middle">import</text>
+<rect x="1580.9" y="1131.0" width="57.2" height="18" rx="9" fill="#fff" stroke="#c2410c" stroke-width="1.6"/><text x="1609.5" y="1144.0" font-size="11.5" font-weight="800" fill="#c2410c" text-anchor="middle">import</text>
+<rect x="1575.4" y="1512.0" width="57.2" height="18" rx="9" fill="#fff" stroke="#0f766e" stroke-width="1.6"/><text x="1604.0" y="1525.0" font-size="11.5" font-weight="800" fill="#0f766e" text-anchor="middle">import</text>
+<rect x="2026.0" y="383.0" width="38.0" height="18" rx="9" fill="#fff" stroke="#7c2d12" stroke-width="1.6"/><text x="2045.0" y="396.0" font-size="11.5" font-weight="800" fill="#7c2d12" text-anchor="middle">실행</text>
+<rect x="2671.0" y="723.5" width="38.0" height="18" rx="9" fill="#fff" stroke="#6d28d9" stroke-width="1.6"/><text x="2690.0" y="736.5" font-size="11.5" font-weight="800" fill="#6d28d9" text-anchor="middle">실행</text>
+<rect x="2690.5" y="461.0" width="38.0" height="18" rx="9" fill="#fff" stroke="#be185d" stroke-width="1.6"/><text x="2709.5" y="474.0" font-size="11.5" font-weight="800" fill="#be185d" text-anchor="middle">실행</text>
+<rect x="1816.5" y="1186.0" width="38.0" height="18" rx="9" fill="#fff" stroke="#475569" stroke-width="1.6"/><text x="1835.5" y="1199.0" font-size="11.5" font-weight="800" fill="#475569" text-anchor="middle">실행</text>
+<rect x="2671.0" y="886.5" width="38.0" height="18" rx="9" fill="#fff" stroke="#4d7c0f" stroke-width="1.6"/><text x="2690.0" y="899.5" font-size="11.5" font-weight="800" fill="#4d7c0f" text-anchor="middle">실행</text>
+</svg>
