@@ -7,8 +7,19 @@
 > ⚠️ 이 저장소에는 CAD 파일(`*.stp`), 비식별 대응표(`*_mapping.csv`), SSH 키(`*.pem`)가 **들어 있지 않습니다.** 강사에게 따로 받으세요.
 >
 > 📂 **STEP 파일이 없다면 — 공공데이터로도 실습할 수 있습니다.**  
-> 미국 국립표준기술연구소(NIST)가 무료 공개한 CAD 모델·STEP 파일: [NIST MBE PMI — Download Free CAD Models, STEP Files](https://www.nist.gov/ctl/smart-connected-systems-division/smart-connected-manufacturing-systems-group/mbe-pmi-0)  
-> 페이지의 **NIST PMI STEP Files** 압축을 받아 STEP 하나를 골라 `LPM_OPENER.stp` 로 이름을 바꿔 `code\data\raw\` 에 넣으면 아래 명령을 그대로 따라 할 수 있습니다. (모두 mm 단위 · 단일 부품이라 BOM은 1줄, 결과 치수는 문서와 다르게 나옵니다)
+> 출처: [공공데이터 포털 AI HUB](https://www.aihub.or.kr) — **제조 및 로보틱스 분야 데이터셋 (총 28건)**
+>
+> | 구분 | 내용 |
+> |---|---|
+> | 데이터 내용 | AI 모델 학습을 위한 기초·중간 단계 학습용 데이터 · 디지털트윈 AI 자동화 설계 개념 학습용 데이터 · 기계부품 CAD 조립데이터 · 설계속성 데이터 · 로봇기구 CAD · 산업용 로봇 모델 등 |
+>
+> | 데이터 내용 | 활용 규모 |
+> |---|---|
+> | CAD·기계 구조 데이터 | 약 300~500건 |
+> | 로봇·자동화 구조 모델 | 약 120~180 |
+> | AI 학습용 테이블 데이터 | 약 30~50만 Row |
+>
+> 데이터셋 중 **STEP(`.stp` / `.step`) 형식의 CAD 파일** 하나를 골라 `LPM_OPENER.stp` 로 이름을 바꿔 `code\data\raw\` 에 넣으면 아래 명령을 그대로 따라 할 수 있습니다. (AI HUB 는 회원가입 후 다운로드 신청이 필요할 수 있으며, 결과 치수 · BOM 줄 수는 문서와 다르게 나옵니다)
 
 ---
 
@@ -74,7 +85,7 @@ Step 02 ~ 24 에서 만드는 파일들이 서로 어떻게 import · 상속 · 
 |---|---|
 | Windows PC + **CATIA V5** (라이선스) | 강의장 PC |
 | **엘리스 클라우드** 계정 · 실행 중인 인스턴스 · `.pem` 비밀키 | 엘리스 대시보드 |
-| `LPM_OPENER.stp` (원본 STEP) | 강사 (없으면 [NIST 공공 STEP 파일](https://www.nist.gov/ctl/smart-connected-systems-division/smart-connected-manufacturing-systems-group/mbe-pmi-0)로 대체) |
+| `LPM_OPENER.stp` (원본 STEP) | 강사 (없으면 [공공데이터 포털 AI HUB](https://www.aihub.or.kr) 제조·로보틱스 데이터셋의 STEP 파일로 대체) |
 
 ## 1. 내 PC 설치 (약 10분)
 
