@@ -208,3 +208,12 @@ C:\CATIA_AX\
 | `ValueError: Y=... 허용 범위` | 엘리스의 `~/code` 가 이 저장소 최신 코드인지 (`cd ~/CATIA_AX && git pull`) |
 | `Run build_template.py first` | 5번을 먼저 실행 |
 | GUI 호스트 · 포트 칸이 비어 있음 / `접속 정보가 없습니다` | `C:\CATIA_AX\.env` 가 있는지, `ELICE_HOST` · `ELICE_PORT` 를 채웠는지 |
+
+## GPU 실습 데이터 준비
+
+1. [다운로드 주소]에서 실습용 STEP 파일을 내려받아 압축을 풉니다.
+2. 부품 종류에 맞춰 파일을 넣습니다.
+   - 볼트 → `ai/data/raw/bolt/`
+   - 브래킷 → `ai/data/raw/bracket/`
+3. 실습 환경에서 프로젝트 최상위 폴더를 열고 `python ai/render_dataset.py`를 실행합니다.
+4. `ai/data/images/`에서 생성된 이미지를 확인합니다.

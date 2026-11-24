@@ -41,3 +41,10 @@ __pycache__/
 .idea/
 Thumbs.db
 desktop.ini
+ai/data/raw/*
+ai/data/images/*
+ai/models/*.pt
+ai/runs/
+!ai/data/raw/.gitkeep
+!ai/data/images/.gitkeep
+!ai/models/.gitkeep

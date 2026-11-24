@@ -1,0 +1,7 @@
+# AWS 서버용 (조 서버 · GPU 서버 공통) — code/requirements_cloud.txt 에 더해서 설치
+#   pip install -r code/requirements_cloud.txt -r ai/requirements_gpu.txt
+# GPU 서버는 NVIDIA 드라이버가 깔린 이미지여야 합니다. torch 가 GPU 를 보는지:
+#   python -c "import torch; print(torch.cuda.is_available(), torch.cuda.get_device_name(0))"
+torch
+torchvision
+pillow
